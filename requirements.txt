@@ -1,0 +1,3 @@
+pip install gunicorn
+pip install psycopg2
+pip freeze > requirements-dev.txt
